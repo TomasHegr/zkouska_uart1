@@ -23,7 +23,7 @@ Popis funkce
 1. Rozblikám LED, rychlost blikání je uložena v proměnné
 2.  zapnu přerušení od UART1
 3. v rutině přerušení měním proměnnou, která určuje rychlost blikání
-4. nevim
+4. nevim nevim nevim
 ToDo
 -----------------------
 
