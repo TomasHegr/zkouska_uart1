@@ -22,7 +22,7 @@ Další zkouška ve škole
 * na profilu github, gitlab:  nastavení -> ssh key -> new key -> vložit -> v gitlabu dát expiraci na never
 * jít zpěto do  prázdneho projeku na githubu
 * zde jsou instrukce a nejdůležitejěí ->  git remote add origin..........( vložit do terminalu)
-*
+* vložit příkaz do terminálu v codiu/code  git push -u origin main- > yes a je hotovo
 
 Schema zapojení
 -----------------------
