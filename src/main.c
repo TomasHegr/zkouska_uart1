@@ -21,7 +21,7 @@ int main(void)
 {
   
     uint32_t time = 0;
-
+    uint16_t zpozdeni = 777;
     init();
 
     while (1) {
